@@ -32,3 +32,4 @@ Calculating accuracy using the test dataset and generating predictions to assess
 · Model Visualization
 
 Creating a complete Decision Tree plot using plot_tree() to visualize decision paths, feature splits, gini impurity, and predicted classes.
+
